@@ -4,4 +4,4 @@ Allow: /
 Disallow: /admin/
 Disallow: /private/
 
-Sitemap: https://san4el0.github.io/webmaster-lab/sitemap.xml
+Sitemap: https://github.com/San4eL0/webmaster-lab.git/sitemap.xml
